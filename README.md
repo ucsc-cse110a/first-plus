@@ -1,6 +1,6 @@
-# CSE110A Introduction to Compilers.
-# Implementation of First+
-# Instructor: Marcelo Siero
+# Calculation of FIRST, FOLLOW, FIRST+ Sets
+Implementation of First+
+Instructor: Marcelo Siero
 
 ## About first_follow.py
 About programs to construct FIRST, FOLLOW and FIRST+ sets.
